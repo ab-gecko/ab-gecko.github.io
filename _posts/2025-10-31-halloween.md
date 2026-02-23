@@ -2,7 +2,7 @@
 layout: post
 title: "Halloween"
 date: 2025-10-31
-description: ""
+description: "Lights welcoming in!"
 categories: [Haiku]
 tags: [halloween, holidays, happiness]
 ---
