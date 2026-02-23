@@ -24,3 +24,35 @@ h1, h2, h3 {
     background-color: #faf7f2;
   }
 }
+
+/* Remove Further Reading And Other Footer */
+#related-posts {
+  display: none;
+}
+
+.post-tail-wrapper {
+  display: none;
+}
+
+/* Remove blank space after hidden elements */
+#post-extend-wrapper {
+  display: none;
+}
+
+article {
+  padding-bottom: 0 !important;
+}
+
+.content p {
+  padding-left: 2rem;
+}
+
+/* Remove read time */
+.readtime {
+  display: none;
+}
+
+/* Hide updated date */
+.post-meta span:nth-child(2) {
+  display: none;
+}
